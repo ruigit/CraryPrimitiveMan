@@ -1,4 +1,4 @@
-curl -O https://github.com/ruigit/CraryPrimitiveMan/blob/master/mac_ntfs.sh
+curl -O https://raw.githubusercontent.com/CraryPrimitiveMan/code-examples/master/shell/mac_ntfs.sh
 chmod +x ./mac_ntfs.sh
 ./mac_ntfs.sh
 注：执行时，需插入磁盘。
